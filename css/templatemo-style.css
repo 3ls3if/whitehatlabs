@@ -411,11 +411,11 @@ header {
 }
 
 .Modern-Slider .item-2 .image {
-  background-image: url(../img/vulnerability-research.jpg); /* Change this to slide_2.jpg */
+  background-image: url(../img/vulnerability-3.jpg); /* Change this to slide_2.jpg */
 }
 
 .Modern-Slider .item-3 .image {
-  background-image: url(../img/digital-forensics-incident-response3.jpg); /* Change this to slide_3.jpg */
+  background-image: url(../img/digital-forensics-4.jpg); /* Change this to slide_3.jpg */
 }
 
 .Modern-Slider .PrevArrow:before{content:'\f104';}
