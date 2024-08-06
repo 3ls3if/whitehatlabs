@@ -1,10 +1,3 @@
-/* 
-
-Sentra Template
-
-https://templatemo.com/tm-518-sentra
-
-*/
 
 body {
   font-family: 'Open Sans', sans-serif;
@@ -591,8 +584,8 @@ header {
   margin-bottom: 12.5px;
 }
 
-/* Professional Certifications Style */
-/* #prof-certs {
+/* professional certification Style */
+#prof-certs {
   padding-left: 60px;
   padding-right: 60px;
   padding-bottom: 80px;
@@ -725,7 +718,7 @@ header {
   color: #7a7a7a;
   letter-spacing: 0.5px;
   margin-bottom: 12.5px;
-} */
+}
 
 
 /* Projects Style */
@@ -1206,6 +1199,17 @@ header {
   #contact-content {
     padding-left: 15px;
     padding-right: 15px;
+  }
+  #prof-certs {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  #prof-certs .owl-nav {
+    position: absolute;
+    display: inline-block;
+    top: -220px;
+    right: 0;
   }
 
 }
